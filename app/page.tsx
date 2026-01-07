@@ -21,7 +21,7 @@ export default function Home() {
 
   return (
     <>
-      <VideoPlayerDialog />
+      {/* <VideoPlayerDialog /> */}
       <AnimatedHero/>
       <Services/>
       <Support/>
