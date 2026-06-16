@@ -104,7 +104,7 @@ export default function ContactNew() {
                   <p className="text-sm text-muted-foreground">Visit us</p>
                   <div className="flex flex-row gap-2">
                     <MapPin/>
-                    <p>7F Pacifica One Center, 2178 Chino Roces Ave, Makati City, 1230 Metro Manila</p></div>
+                    <p>Unit 3B Cafel Bldg., 7505 Santillan St. Brgy. Pio Del Pilar 1230 Makati, Philippines</p></div>
                 </div>   
             </div>
 
